@@ -1,1 +1,1 @@
-### Regresja - przewidywanie cen domów.
+### Regresja - przewidywanie cen domów
